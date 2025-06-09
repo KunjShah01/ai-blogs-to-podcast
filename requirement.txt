@@ -1,0 +1,8 @@
+streamlit
+langchain
+langchain_communtiy
+langhchain_google_genai
+langchain_core
+langchain_openai
+trafilatura
+elevenlabs
