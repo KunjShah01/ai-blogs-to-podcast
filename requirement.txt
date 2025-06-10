@@ -1,8 +1,9 @@
 streamlit
 langchain
 langchain_community
-langchain_google_genai
 langchain_core
 langchain_openai
 trafilatura
 elevenlabs
+python-dotenv
+openai>=1.0.0
